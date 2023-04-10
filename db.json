@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "feedback": [
+    {
+      "id": "1",
+      "rating": "10",
+      "text": "this is feedback item one coming from backend"
+    },
+    {
+      "id": "2",
+      "rating": "7",
+      "text": "this is feedback item two coming from backend"
+    },
+    {
+      "id": "3",
+      "rating": "8",
+      "text": "this is feedback item three coming from backend"
+    },
+    {
+      "text": "created from post malone",
+      "rating": "8",
+      "id": "SmLf2MA"
+    },
+    {
+      "rating": "8",
+      "text": "created from postman",
+      "id": "6gOUcC_"
+    }
+  ]
+}
